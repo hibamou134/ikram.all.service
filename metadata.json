@@ -1,0 +1,6 @@
+{
+  "name": "Ikram All Service - Nettoyage & Personnel Marrakech",
+  "description": "Entreprise spécialisée dans les services de nettoyage professionnel et le placement de personnel qualifié à Marrakech et ses alentours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
